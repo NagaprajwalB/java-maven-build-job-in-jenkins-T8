@@ -114,5 +114,14 @@ BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
 Finished: SUCCESS
 ```
+## Screenshots
+
+### Build Status 
+![Build status](images/status.png)
+### Console output 1
+![console-output-1](images/Console-1.png)
+### Console output 2
+![console-output-2](images/Console-2.png)
+
 
 ## Happy Building! 🚀
